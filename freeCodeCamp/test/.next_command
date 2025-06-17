@@ -124,3 +124,4 @@ mv lato.tff lato.ttf
 mv menlo.font menlo.off
 mv menlo.off menlo.otf
 ls --color=auto
+mkdir fonts
