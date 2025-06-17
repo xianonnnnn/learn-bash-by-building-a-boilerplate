@@ -168,3 +168,8 @@ find -name images
 mv header.png client/assets/images/
 find -name header.png
 find -name footer.jpeg
+mv footer.jped client/assets/images/
+mv footer.jpeg client/assets/images/
+ls --color=auto
+find -name footer.jpeg
+mv images/footer.jpeg client/assets/images/
