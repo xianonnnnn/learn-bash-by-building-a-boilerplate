@@ -84,3 +84,4 @@ ls --color=auto -a
 cd .
 clear
 touch background.jpg
+touch header.png
