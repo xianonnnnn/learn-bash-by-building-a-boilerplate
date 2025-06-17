@@ -200,3 +200,5 @@ find
 clear
 ls --color=auto
 rm --help
+rmdir -r fonts/
+rm -r fonts/
