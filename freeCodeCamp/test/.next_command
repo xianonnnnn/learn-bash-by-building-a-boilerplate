@@ -130,3 +130,4 @@ mv roboto.woff fonts
 clar
 clear
 find
+mv lato.ttf fonts
