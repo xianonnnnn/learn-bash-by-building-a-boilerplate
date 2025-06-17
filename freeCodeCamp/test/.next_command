@@ -107,3 +107,4 @@ __vsc_prompt_cmd_original
 ls --color=auto
 clear
 rm background.jpg
+ls --color=auto
