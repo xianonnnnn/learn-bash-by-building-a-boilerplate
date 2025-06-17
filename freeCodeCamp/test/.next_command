@@ -208,3 +208,6 @@ touch server.js
 touch README.md
 ls --color=auto
 echo Yay!
+echo I just finished the boilerplate!
+echo i finished the boilerplate!
+echo I finished the boilerplate!
