@@ -108,3 +108,4 @@ ls --color=auto
 clear
 rm background.jpg
 ls --color=auto
+cp header.png images
