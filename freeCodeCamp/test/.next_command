@@ -152,3 +152,4 @@ cd assets
 mkdir images
 cd ../..
 cd client/assets/images/
+touch background.jpg
