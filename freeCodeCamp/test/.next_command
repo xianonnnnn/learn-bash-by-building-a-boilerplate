@@ -185,3 +185,4 @@ mkdir icons client/assets/
 rmdir icons/
 mkdir client/assets/icons
 mv CodeAlly.svg client/assets/icons/
+find
