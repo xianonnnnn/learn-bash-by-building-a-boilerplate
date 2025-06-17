@@ -150,3 +150,5 @@ cd client
 mkdir assets
 cd assets
 mkdir images
+cd ../..
+cd client/assets/images/
