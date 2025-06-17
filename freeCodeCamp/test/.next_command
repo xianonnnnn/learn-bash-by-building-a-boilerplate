@@ -100,3 +100,4 @@ ls --color=auto
 clear
 ls --color=auto
 cp background.jpg images
+cd images
