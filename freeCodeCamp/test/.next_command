@@ -63,3 +63,6 @@ more index.js
 cd ..
 pwd
 cd ..
+clear
+pwd
+cd ../..
